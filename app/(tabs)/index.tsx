@@ -119,7 +119,7 @@ const styles = StyleSheet.create({
   },
   imageContainer: {
     flex: 1,
-    marginLeft: 2
+    left: 20
   },
   footerContainer: {
     flex: 1/3,
