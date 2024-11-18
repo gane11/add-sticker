@@ -4,7 +4,7 @@
     "slug": "StickerSmash",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/alex.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -17,6 +17,11 @@
         "backgroundColor": "#ffffff"
       }
     },
+      "splash": {
+    "image": "./assets/images/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#25292e"
+  },
     "web": {
       "bundler": "metro",
       "output": "static",
